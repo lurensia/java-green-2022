@@ -1,4 +1,10 @@
 {
     "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin"
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\greenworkspace\\downloads\\javaSDK-2.2.jar",
+        "c:\\greenworkspace\\downloads\\java-sdk-2.2-http-cv52\\lib\\json-simple-1.1.1.jar",
+        "c:\\greenworkspace\\downloads\\gson-2.8.5.jar"
+    ]
 }

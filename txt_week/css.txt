@@ -1,0 +1,43 @@
+input: 사용자 데이터를 모으는 태그
+
+form: 여러가지 input 태그의 정보들을 한번에 전송하는 태그
+-get:줘(데이터가 필요해)
+-post:줄게(데이터를 줄게)
+table
+iframe
+
+
+1.테이블 숙제!
+2.백그라운드 이미지
+3.iframe
+4.
+-static: 기본형태, 움직일 수 없다. body에 영향을 받음 
+/*static은 방향의 영향을 안받음*/
+-rlatuve: 움직일 수 있다. static에 영향을 받음, 앞자리에 영향을 받음
+/*relative의 앞은 static이어야 한다.*/
+-absoulte: 겹쳐진다. visibility로 인한 영향을 안받는다. 겹칠때 사용
+부모가 rel이면 rel을 따라간다.
+-fixed
+5. material icon
+
+
+
+flex 복습
+ex 05
+
+20220104
+
+static: 기본, 정해진 위치에 존재
+
+relative: 정해진 위치가 아닌 다른 위치에 존재
+
+fixed: 아무리 내려도 그 항상 좌표에 존재, 배너에 자주 씀
+
+absolute: 유일하게 겹쳐진다. relative가 아니면 따로논다.
+
+
+
+
+material icon
+주소는 자신의 것을 가장 아래에
+가지고 온것을 가장 위에
