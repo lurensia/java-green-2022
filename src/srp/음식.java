@@ -1,7 +1,7 @@
 package srp;
 
 public class 음식 {
-    public String name;
+    private String name;
 
     public 음식(String name) {
         this.name = name;
@@ -14,9 +14,4 @@ public class 음식 {
     public void setName(String name) {
         this.name = name;
     }
-
-    public static void main(String[] args) {
-
-    }
-
 }

@@ -1,4 +1,4 @@
-package userTest;
+package datatest;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -10,7 +10,7 @@ import java.util.Map;
 
 import com.google.gson.Gson;
 
-import userTest.AirportDto.Response.Body.Items.Item;
+import datatest.AirportDto.Response.Body.Items.Item;
 
 public class DownloadAirport {
 

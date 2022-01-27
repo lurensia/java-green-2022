@@ -1,4 +1,4 @@
-package userTest;
+package datatest;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -9,7 +9,7 @@ import java.util.Map;
 
 import com.google.gson.Gson;
 
-import userTest.FlightDto.Response.Body.Items.Item;
+import datatest.FlightDto.Response.Body.Items.Item;
 
 public class DownloadFlight {
     // 특정 날짜에 특정 출발지에서 특정 목적지로 도착하는 항공편 정보 가져오는 메서드

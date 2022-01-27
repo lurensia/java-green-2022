@@ -1,4 +1,4 @@
-package CoffeeMaker;
+package cafe;
 
 public class MenuItem {
 	private String name;

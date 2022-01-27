@@ -1,4 +1,4 @@
-package userTest.usertest1;
+package usertest1;
 
 import java.util.List;
 

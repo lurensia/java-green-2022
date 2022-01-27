@@ -1,9 +1,9 @@
-package userTest;
+package datatest;
 
 import java.util.List;
 import java.util.Scanner;
 
-import userTest.FlightDto.Response.Body.Items.Item;
+import datatest.FlightDto.Response.Body.Items.Item;
 
 public class AirportApp {
 

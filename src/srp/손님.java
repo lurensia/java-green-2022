@@ -8,8 +8,4 @@ public class 손님 {
         System.out.println(jjajang.getName() + "을/를 먹습니다.");
         // 주문받기();
     }
-
-    public static void main(String[] args) {
-
-    }
 }
