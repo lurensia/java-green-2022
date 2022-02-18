@@ -15,7 +15,7 @@ class 사자 {
 public class TestLombok {
     public static void main(String[] args) {
         사자 s = new 사자("사자", "노랑");
-        // s.setName("사자");//getName이 없어서 오류난다.플러그인 필요.
+        // s.setName("사자");
         System.out.println(s.getName());
     }
 }
